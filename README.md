@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Noritaka Ikeda's GitHub Stats
+
+![NoritakaIkeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoritakaIkeda&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoritakaIkeda&layout=compact&langs_count=8&theme=default)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoritakaIkeda)](https://github.com/ryo-ma/github-profile-trophy)
+
+
