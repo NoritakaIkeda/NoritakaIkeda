@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoritakaIkeda&layout=compact&langs_count=8&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NoritakaIkeda)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
