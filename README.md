@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Noritaka Ikeda's GitHub Stats
+| ![GitHub Stats Card] | ![GitHub Top Languages Card] |
+| -------------------- | ---------------------------- |
 
-![NoritakaIkeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoritakaIkeda&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default&hide_title=true)
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=NoritakaIkeda&count_private=true&theme=vue&show_icons=true&hide_border=true
+[GitHub Top Languages Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=NoritakaIkeda&layout=compact&theme=vue&hide_border=true
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoritakaIkeda&layout=compact&langs_count=8&theme=default)
 
 
 
