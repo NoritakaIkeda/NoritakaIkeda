@@ -1,23 +1,14 @@
 <!-- ヘッダーバナー -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20there%20👋%20I'm%20Your%20Name&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Building%20Beautiful%20Web%20Experiences&descSize=16&descAlignY=55&descColor=e2e8f0" width="100%" />
-</div>
-
-<!-- 自己紹介 -->
-<div align="center">
-  <p>
-    🏢 フロントエンドエンジニアとして働いています<br/>
-    ⚡ ユーザー体験とパフォーマンスにこだわった開発が好きです<br/>
-    🌱 現在は <strong>Next.js / Web Animation</strong> を深掘り中
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=NoritakaIkeda&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer&descSize=18&descAlignY=55&descColor=e2e8f0" width="100%" />
 </div>
 
 <!-- SNS / 連絡先バッジ -->
 <div align="center">
-  <a href="https://twitter.com/omotidaisukijp"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/omotidaisukijp"><img src="https://img.shields.io/badge/-@omotidaisukijp-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://zenn.dev/omotidaisukijp"><img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
-  <a href="https://qiita.com/omotidaisukijp"><img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
-  <a href="mailto:noritaka.ikeda222@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/noritakaikeda"><img src="https://img.shields.io/badge/-SpeakerDeck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+  <a href="https://github.com/NoritakaIkeda"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -32,37 +23,52 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-#### Tools & Platforms
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+#### AI / Agent
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white)
+
+#### Infrastructure & Backend
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-#### Testing
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+#### AI Dev Tools
+![Claude Code](https://img.shields.io/badge/-Claude_Code-d4a27f?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/-Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
+![Devin](https://img.shields.io/badge/-Devin-000000?style=flat-square&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/-CodeRabbit-FF6F00?style=flat-square&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 </div>
 
 <br/>
 
+<!-- Speaking -->
+## 🎤 Speaking
+
+| Event | Title |
+|---|---|
+| **[TSKaigi 2025](https://2025.tskaigi.org/talks/omotidaisukijp)** | 機能的凝集の概念を用いて複数ロール、類似の機能を多く含むシステムのフロントエンドのコンポーネントを適切に分割する |
+| **[TSKaigi 2024](https://2024.tskaigi.org/talks/NoritakaIkeda)** | TypeScriptが学生のエンジニアコミュニティ参加を促進する |
+| **[Devin Meetup Tokyo](https://x.com/omotidaisukijp/status/1948962137805914170)** | Devinで20テーブルのRLSを一貫した設計のもと数日で実装 |
+
+<br/>
+
+
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoritakaIkeda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoritakaIkeda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="170" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NoritakaIkeda&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" width="600" />
@@ -70,35 +76,15 @@
 
 <br/>
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoritakaIkeda&theme=react-dark&hide_border=true&bg_color=0d1117&color=6366f1&line=06b6d4&point=e2e8f0" width="95%" />
 </div>
 
 <br/>
 
-<!-- Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoritakaIkeda&theme=algolia&no-frame=true&column=7&margin-w=10" width="95%" />
-</div>
 
-<br/>
 
-<!-- ピン留めプロジェクト（お好みで追加） -->
-<!--
-## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/NoritakaIkeda/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoritakaIkeda&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/NoritakaIkeda/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoritakaIkeda&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
--->
 
 <!-- フッター -->
 <div align="center">
